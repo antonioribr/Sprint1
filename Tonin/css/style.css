@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(136, 96, 174);
+    color: rgb(216, 192, 9);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.titulo{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(100, 149, 237);
+}
+
+.sexta{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.madrugada{
+    text-align: justify;
+    font-size: 15px;
+
+}
